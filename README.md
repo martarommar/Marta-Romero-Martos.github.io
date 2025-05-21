@@ -1,35 +1,32 @@
-# (Nombre del proyecto)
+# La magia de las flores
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : La magia de las flores
 
-Web: (url github.io)
+Web: https://martarommar.github.io/Marta-Romero-Martos.github.io/
 
-Autor: (Nombre apellidos)
+Autor: Marta Romero Martos
 
 Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: Juego
 
 Logotipo : (insertar imagen y breve justificación, si tiene)
 
 (insertar imágenes a resolucion de 100px alto)
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 600x400px tamaño fijo no adaptable a dispositivos móviles
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: disponible en ordenadores y portátiles a través de navegadores como Google Chrome, MS Edge, Safari...
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 1,5MB
 
-Fecha : 14/05/2025
+Fecha : 21/05/2025
 
-Medios (donde se tiene presencia relacionada):
+Medios:
 
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Github: https://github.com/martarommar/Marta-Romero-Martos.github.io
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
@@ -52,6 +49,7 @@ Video
 Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
+
 Etapa 3: Problemas identificados
 (que consideras que no funciona correctamente y por qué )
 
