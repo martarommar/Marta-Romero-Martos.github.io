@@ -8,13 +8,17 @@ Web: https://martarommar.github.io/Marta-Romero-Martos.github.io/
 
 Autor: Marta Romero Martos
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Minijuego interactivo de interfaz sencilla. Consiste en colocar una cesta, en la que hay que meter una flor. Tras ello, aparece un botón que permite hacer aparecer varias flores de colores como recompensa por haber completado el juego.
 
 Estilo/género: Juego
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Logotipo :
 
-(insertar imágenes a resolucion de 100px alto)
+![logo](https://github.com/user-attachments/assets/712a4429-d982-45f1-85ca-ec8a8bca3d16)
+
+Esta imagen vectorial de un hibisco es mi logo personal, el cual ha sido el elemento principal de este minijuego. Su diseño sencillo, alegre y versátil es perfecto para un juego de estas características.
+
+Además, al estar diseñado con Illustrator está formado por vectores, que permiten la reescala del mismo sin pérdida de calidad.
 
 Resolución: 600x400px tamaño fijo no adaptable a dispositivos móviles
 
