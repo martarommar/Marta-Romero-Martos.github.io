@@ -34,6 +34,10 @@ Github: https://github.com/martarommar/Marta-Romero-Martos.github.io
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
+
+![storyboard](https://github.com/user-attachments/assets/3b744a25-fc8b-4fcd-b877-f1c43b3611b7)
+
+
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
