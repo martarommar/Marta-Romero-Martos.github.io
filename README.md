@@ -91,7 +91,9 @@ Como he dicho, en el caso de querer mejorar este juego de cara al futuro el prim
 En conclusión, creo que se trata de un minijuego bastante completo e intuitivo que he diseñado teniendo en cuenta la interfaz orientada a un público concreto.
 
 **Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
+![licencia](https://github.com/user-attachments/assets/b1eb7685-fca5-437b-a1ad-1eda2ba6c0dd)
+
 
 https://creativecommons.org/licenses/?lang=es
 
