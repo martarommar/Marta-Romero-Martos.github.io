@@ -36,16 +36,14 @@ Github: https://github.com/martarommar/Marta-Romero-Martos.github.io
 ### 2.1. Storyboard:
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
-### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque incluye varias maneras de interactuar con los elementos de la interfaz. Su variedad de acciones consecutivas al completar cada una de las consignas hace que el usuario reciba un estímulo positivo por parte de la aplicación, lo que le anima a continuar jugando.
 
-Orientado a .. (Público)
+Orientado a un público infantil, que pueda entretenerse sin problemas mediante una interfaz sencilla e intuitiva. La estética floral con colores cálidos y alegres permiten tener una experiencia positiva al participar de este minijuego.
 
 Etapa 2: Desarrollo / actividades realizadas
 
