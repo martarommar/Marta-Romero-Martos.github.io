@@ -2,7 +2,7 @@
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : La magia de las flores
+###Titulo : La magia de las flores
 
 Web: https://martarommar.github.io/Marta-Romero-Martos.github.io/
 
