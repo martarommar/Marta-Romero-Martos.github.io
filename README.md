@@ -14,7 +14,7 @@ Estilo/género: Juego
 
 Logotipo :
 
-![logo](https://github.com/user-attachments/assets/712a4429-d982-45f1-85ca-ec8a8bca3d16)
+![logo](https://github.com/user-attachments/assets/f783c43e-7cbf-40fe-bea0-1dbb5bc98abf)
 
 Esta imagen vectorial de un hibisco es mi logo personal, el cual ha sido el elemento principal de este minijuego. Su diseño sencillo, alegre y versátil es perfecto para un juego de estas características.
 
