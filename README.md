@@ -26,7 +26,7 @@ Probado en: disponible en ordenadores y portátiles a través de navegadores com
 
 Tamaño proyecto: 1,5MB
 
-Fecha : 21/05/2025
+Fecha : 23/05/2025
 
 Medios:
 
@@ -37,9 +37,10 @@ Github: https://github.com/martarommar/Marta-Romero-Martos.github.io
 
 ![storyboard](https://github.com/user-attachments/assets/3b744a25-fc8b-4fcd-b877-f1c43b3611b7)
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+Diapositiva 1: El jugador aparece en una escena en la que hay dos cestas. Debe colocar una de ellas sobre el dibujo del contorno.
+Diapositiva 2: Tras colocarla correctamente aparece una flor que debe hacer colisionar con la cesta que acaba de colocar.
+Diapositiva 3: Cuando la flor está en la posición requerida aparece un nuevo botón que persuade al jugador para ser pulsado.
+Dipositiva 4: Como recompensa por completar el minijuego el botón hace aparecer de manera aleatoria e infinita flores de colores alrededor de toda la pantalla.
 
 ## 3. Metodología
 
@@ -52,21 +53,42 @@ Orientado a un público infantil, que pueda entretenerse sin problemas mediante 
 Etapa 2: Desarrollo / actividades realizadas
 
 Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
+
+Instrucciones y ayuda al usuario:
+
+Para que una aplicación interactiva funcione a la perfección es vital tener en cuenta cómo va a ser la experiencia del usuario. Para ello, hay que tener en cuenta el perfil del público al que va dirigido y adaptar la aplicación.
+
+Por ello, la interfaz de este proyecto es sencilla, cómoda e intuitiva. Así, en la parte superior de la pantalla aparecen las intrucciones correspondientes a la tarea, para que el usuario sepa cómo tiene que actuar.
+
+Contiene un lenguaje claro y conciso que anima a continuar jugando, mejorando la percepción del jugador.
+
+Menús y elementos de navegación:
+
+La interacción con la aplicación se hace a través del ratón y del teclado, permitiendo una gran variedad de acciones que hacen que el juego no sea monótono.
+
+Por una parte, el cursor del ratón nos permitirá el movimiento de la cesta hasat el lugar deseado, donde haciendo click dos veces la soltaremos para poder usar el ratón de manera libre nuevamente.
+
+Por otro lado, las teclas del teclado (en este caso, W, A, S y D) son las que hacen funcionar el movimiento de la flor.
+
+Por último, al chocar la flor con la cesta aparece el botón final, con el que aparecen de manera aleatoria flores por toda la pantalla. La leyenda del botón persuade al espectacdor de pulsarlo en repetidas ocasiones, entendiendo la aparición de estas flores como la recompensa final por haber completado el juego.
+
+Todos estos elementos de navegación resultan en un juego muy completo e intuitivo.
 
 Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+
+Tras haber completado el desarrollo del juego considero que el único error más importante que contiene la aplicación es que no se reinicie llegado un número concreto de flores, sino que se pueden seguir creando elementos de manera infinita.
+
+Si quisiera llevar este proyecto a algo más elaborado configuraría el código para crea una cantidad limitada de elementos y que, tras ello, se reiniciara el juego de manera automática. Además, al reiniciarse haría que la cesta y la flor inicial aparecieran en otra parte de la pantalla aleatoriamente, para que el juego no fuera exactamente igual cada vez que se juegue.
+
+Tal y como está desarrollado ahora mismo, la única manera de reiniciar el juego es salirse completamnete de la pantalla y acceder de nuevo, por lo que se trata de un fallo que habría que arreglar de cara a algo más elaborado.
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
-## 5 Referencias
-**Artículos y blogs **
+Tras la elaboración de este minijuego considero que voy avanzando bastante bien en cuanto a la programaación de elementos multimedia interactivos. No obstante, no es un proyecto demasiado complejo, pero sí lo creo bastante completo con gran parte de las funciones que hemos visto en clase.
 
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-Recursos y materiales audiovisuales:
+Como he dicho, en el caso de querer mejorar este juego de cara al futuro el primer problema que resolvería sería el reinicio automático del nivel. Por otra parte, crearía varios niveles más con el mismo concepto: la flor debe acabar en la cesta. De este modo, diseñaría nuevos niveles cada vez más complejos; donde, por ejemplo, la flor tuviera que pasar por sitios exactos sin chocarse.
+
+En conclusión, creo que se trata de un minijuego bastante completo e intuitivo que he diseñado teniendo en cuenta la interfaz orientada a un público concreto.
 
 **Hippani Animator 5.1**
 (imagen de la licencia, copiar y pegar aquí la correcta)
