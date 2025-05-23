@@ -56,7 +56,7 @@ Video
 
 Instrucciones y ayuda al usuario:
 
-Para que una aplicación interactiva funcione a la perfección es vital tener en cuenta cómo va a ser la experiencia del usuario. Para ello, hay que tener en cuenta el perfil del público al que va dirigido y adaptar la aplicación.
+Para que una aplicación interactiva funcione a la perfección es vital tener en cuenta cómo va a ser la experiencia del usuario. Para ello, hay que saber el perfil del público al que va dirigido y adaptar la aplicación.
 
 Por ello, la interfaz de este proyecto es sencilla, cómoda e intuitiva. Así, en la parte superior de la pantalla aparecen las intrucciones correspondientes a la tarea, para que el usuario sepa cómo tiene que actuar.
 
@@ -66,7 +66,7 @@ Menús y elementos de navegación:
 
 La interacción con la aplicación se hace a través del ratón y del teclado, permitiendo una gran variedad de acciones que hacen que el juego no sea monótono.
 
-Por una parte, el cursor del ratón nos permitirá el movimiento de la cesta hasat el lugar deseado, donde haciendo click dos veces la soltaremos para poder usar el ratón de manera libre nuevamente.
+Por una parte, el cursor del ratón nos permitirá el movimiento de la cesta hasta el lugar deseado, donde haciendo click dos veces la soltaremos para poder usar el ratón de manera libre nuevamente.
 
 Por otro lado, las teclas del teclado (en este caso, W, A, S y D) son las que hacen funcionar el movimiento de la flor.
 
@@ -84,11 +84,13 @@ Tal y como está desarrollado ahora mismo, la única manera de reiniciar el jueg
 
 ## 4. Conclusiones
 
-Tras la elaboración de este minijuego considero que voy avanzando bastante bien en cuanto a la programaación de elementos multimedia interactivos. No obstante, no es un proyecto demasiado complejo, pero sí lo creo bastante completo con gran parte de las funciones que hemos visto en clase.
+Tras la elaboración de este minijuego considero que voy avanzando bastante bien en cuanto a la programación de elementos multimedia interactivos. No obstante, no es un proyecto demasiado complejo, pero sí lo creo bastante completo con gran parte de las funciones que hemos visto en clase.
 
-Como he dicho, en el caso de querer mejorar este juego de cara al futuro el primer problema que resolvería sería el reinicio automático del nivel. Por otra parte, crearía varios niveles más con el mismo concepto: la flor debe acabar en la cesta. De este modo, diseñaría nuevos niveles cada vez más complejos; donde, por ejemplo, la flor tuviera que pasar por sitios exactos sin chocarse.
+Como he dicho, en el caso de querer mejorar este juego de cara al futuro el primer problema que resolvería sería el reinicio automático del nivel.
 
-En conclusión, creo que se trata de un minijuego bastante completo e intuitivo que he diseñado teniendo en cuenta la interfaz orientada a un público concreto.
+Por otra parte, crearía varios niveles más con el mismo concepto: la flor debe acabar en la cesta. De este modo, diseñaría nuevos niveles cada vez más complejos; donde, por ejemplo, la flor tuviera que pasar por sitios exactos sin chocarse antes de llegar a la cesta.
+
+En conclusión, creo que se trata de un minijuego bastante completo e intuitivo que he diseñado teniendo en cuenta la interfaz orientada a un público concreto y todos los concimientos aprendidos en la asignatura.
 
 **Hippani Animator 5.1**
 
