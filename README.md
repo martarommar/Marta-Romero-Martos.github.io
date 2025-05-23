@@ -52,7 +52,9 @@ Orientado a un público infantil, que pueda entretenerse sin problemas mediante 
 
 Etapa 2: Desarrollo / actividades realizadas
 
-Video
+Video de la aplicación interactiva:
+
+https://github.com/user-attachments/assets/a652afee-de40-4ff4-a90a-c6056ce508bc
 
 Instrucciones y ayuda al usuario:
 
